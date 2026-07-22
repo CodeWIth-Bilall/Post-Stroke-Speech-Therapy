@@ -1,0 +1,41 @@
+{
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "auth": {
+    "providers": {
+      "anonymous": false,
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Vocal Therapy Speech Therapy",
+        "supportEmail": "mailrehman90527300@gmail.com"
+      }
+    }
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "post-stroke-speech-thera-ef735",
+          "appId": "1:972670513006:android:845a88fb0b5dae19fb1b7f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "post-stroke-speech-thera-ef735",
+          "configurations": {
+            "android": "1:972670513006:android:845a88fb0b5dae19fb1b7f",
+            "ios": "1:972670513006:ios:d255b66f643ac700fb1b7f",
+            "macos": "1:972670513006:ios:d255b66f643ac700fb1b7f",
+            "web": "1:972670513006:web:d5938aec2586dccdfb1b7f",
+            "windows": "1:972670513006:web:308760e90d0f617efb1b7f"
+          }
+        }
+      }
+    }
+  }
+}

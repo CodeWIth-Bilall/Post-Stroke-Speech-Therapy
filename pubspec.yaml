@@ -1,0 +1,66 @@
+name: speech_therapy
+description: "AI-driven post-stroke speech therapy app"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # Firebase
+  firebase_core: ^4.5.0
+  firebase_auth: ^6.2.0
+  cloud_firestore: ^6.1.3
+  firebase_storage: ^13.1.0
+  
+  # Auth
+  google_sign_in: ^6.2.2
+  
+  # ML
+  tflite_flutter: ^0.12.1
+  wav: ^1.0.2
+  
+  # Audio
+  record: ^6.2.0
+  flutter_tts: ^4.2.0
+  speech_to_text: ^7.0.0
+  path_provider: ^2.1.5
+  
+  # State Management & Routing
+
+  # UI & Charts
+  fl_chart: ^0.70.2
+  google_fonts: ^6.2.1
+  
+  # Permissions
+  permission_handler: ^12.0.1
+  
+  # Utils
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  share_plus: ^10.1.4
+  path: ^1.9.1
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/final_wordcount_model.tflite
+    - assets/images/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/APP ICON.png"
+  min_sdk_android: 21

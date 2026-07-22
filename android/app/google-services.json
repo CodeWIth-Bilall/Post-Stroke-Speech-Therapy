@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "972670513006",
+    "project_id": "post-stroke-speech-thera-ef735",
+    "storage_bucket": "post-stroke-speech-thera-ef735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972670513006:android:1a3103e7d2098401fb1b7f",
+        "android_client_info": {
+          "package_name": "com.example.post_stroke_speech_therapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972670513006-nscr6ms7ubjb8rbfsf4l3pev2od4knum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.post_stroke_speech_therapy",
+            "certificate_hash": "c5962bdc7a472977194ba53ce6bc74fd70777134"
+          }
+        },
+        {
+          "client_id": "972670513006-n8i3ujkjeg6uqps5e0vpdj6ocgjo56u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFEyjxmT9eAglly2BGJ1k8sEJs7wv9fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972670513006-n8i3ujkjeg6uqps5e0vpdj6ocgjo56u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972670513006-upfor3lt27th54ircs8k151oka6u5829.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.speechTherapy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972670513006:android:845a88fb0b5dae19fb1b7f",
+        "android_client_info": {
+          "package_name": "com.example.speech_therapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972670513006-aitni6eqhdv0luppoi2625o0e2uhgg24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speech_therapy",
+            "certificate_hash": "c5962bdc7a472977194ba53ce6bc74fd70777134"
+          }
+        },
+        {
+          "client_id": "972670513006-n8i3ujkjeg6uqps5e0vpdj6ocgjo56u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvFEyjxmT9eAglly2BGJ1k8sEJs7wv9fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972670513006-n8i3ujkjeg6uqps5e0vpdj6ocgjo56u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972670513006-upfor3lt27th54ircs8k151oka6u5829.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.speechTherapy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
