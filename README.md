@@ -159,8 +159,8 @@ The following screenshots showcase the application's workflow, from authenticati
 
 ## Authentication
 
-| Splash screen | login |
-|-------|----------------|
+| Splash Screen | Login |
+|---------------|-------|
 | <img src="assets/images/img_1.png" width="250"/> | <img src="assets/images/img.png" width="250"/> |
 
 ---
@@ -168,46 +168,44 @@ The following screenshots showcase the application's workflow, from authenticati
 ## User Roles
 
 | Role Selection | Patient Profile |
-|----------------|-------------------|
+|----------------|-----------------|
 | <img src="assets/images/img_2.png" width="250"/> | <img src="assets/images/img_3.png" width="250"/> |
 
 ---
 
-## patient information
+## Patient Information
 
-| primary goals | patient dashboard |
-|----------------------|------------------------|
+| Primary Goals | Patient Dashboard Screen |
+|---------------|--------------------------|
 | <img src="assets/images/img_4.png" width="250"/> | <img src="assets/images/img_5.png" width="250"/> |
 
 ---
 
-## patient dashboard
+## Patient Dashboard
 
-| games weekly report   | progress |   | Word Repeat Exercise |
-|--------------------|----------------------|
-| <img src="assets/images/img_6.png" width="250"/>  | <img src="assets/images/img_13.png" width="250"/> | 
-| <img src="assets/images/img_7.png" width="250"/> |
+| Games Weekly Report | Progress | Word Repeat Exercise |
+|---------------------|----------|----------------------|
+| <img src="assets/images/img_6.png" width="250"/> | <img src="assets/images/img_13.png" width="250"/> | <img src="assets/images/img_7.png" width="250"/> |
 
-| Phrase Practice | Practise screen| | picture naming |
-|----------------|----------------| 
-| <img src="assets/images/img_8.png" width="250"/> | <img src="assets/images/img_9.png" width="250"/> |  
-| <img src="assets/images/img_11.png" width="250"/> |
+| Phrase Practice | Practice Screen | Picture Naming |
+|-----------------|-----------------|----------------|
+| <img src="assets/images/img_8.png" width="250"/> | <img src="assets/images/img_9.png" width="250"/> | <img src="assets/images/img_11.png" width="250"/> |
 
 ---
 
 ## Result
 
-| session complete | 
-|------------------|-----------------|----------------------|
-| <img src="assets/images/img_11.png" width="220"/>   | <img src="assets/images/img_12.png" width="220"/> 
+| Session Complete | Result Screen |
+|------------------|---------------|
+| <img src="assets/images/img_11.png" width="250"/> | <img src="assets/images/img_12.png" width="250"/> |
 
+---
 
-## Therapist 
+## Therapist
 
-| Therapist profile | Add first patient | patient dashboard|
-|------------------------|----------------|--------------|
-| <img src="assets/images/img_14.png" width="220"/> | <img src="assets/images/img_15.png" width="220"/> |
-<img src="assets/images/img_png/img_16.png" width="220"/> |
+| Therapist Profile | Add First Patient | Patient Dashboard |
+|-------------------|-------------------|-------------------|
+| <img src="assets/images/img_14.png" width="220"/> | <img src="assets/images/img_15.png" width="220"/> | <img src="assets/images/img_16.png" width="220"/> |
 
 
 
