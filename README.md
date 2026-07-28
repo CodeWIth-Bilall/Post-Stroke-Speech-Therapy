@@ -185,11 +185,13 @@ The following screenshots showcase the application's workflow, from authenticati
 
 | games weekly report   | progress |   | Word Repeat Exercise |
 |--------------------|----------------------|
-| <img src="assets/images/img_6.png" width="250"/>  | <img src="assets/images/img_13.png" width="250"/> |  | <img src="assets/images/img_7.png" width="250"/> |
+| <img src="assets/images/img_6.png" width="250"/>  | <img src="assets/images/img_13.png" width="250"/> | 
+| <img src="assets/images/img_7.png" width="250"/> |
 
 | Phrase Practice | Practise screen| | picture naming |
 |----------------|----------------| 
-| <img src="assets/images/img_8.png" width="250"/> | <img src="assets/images/img_9.png" width="250"/> |  | <img src="assets/images/img_11.png" width="250"/> |
+| <img src="assets/images/img_8.png" width="250"/> | <img src="assets/images/img_9.png" width="250"/> |  
+| <img src="assets/images/img_11.png" width="250"/> |
 
 ---
 
@@ -204,7 +206,8 @@ The following screenshots showcase the application's workflow, from authenticati
 
 | Therapist profile | Add first patient | patient dashboard|
 |------------------------|----------------|--------------|
-| <img src="assets/images/img_14.png" width="220"/> | <img src="assets/images/img_15.png" width="220"/> | <img src="assets/images/img_png/img_16.png" width="220"/> |
+| <img src="assets/images/img_14.png" width="220"/> | <img src="assets/images/img_15.png" width="220"/> |
+<img src="assets/images/img_png/img_16.png" width="220"/> |
 
 
 
